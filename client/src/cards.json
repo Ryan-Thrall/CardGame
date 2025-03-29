@@ -1,0 +1,24 @@
+{
+  "cards": [
+    {
+      "suit": "woods",
+      "value": 1
+    },
+    {
+      "suit": "woods",
+      "value": 2
+    },
+    {
+      "suit": "woods",
+      "value": 3
+    },
+    {
+      "suit": "woods",
+      "value": 4
+    },
+    {
+      "suit": "woods",
+      "value": 5
+    }
+  ]
+}

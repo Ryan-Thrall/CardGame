@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: rgb(53, 25, 3);
+}
+
+a {
+  color: yellow;
+}
+
+.navbar {
+  background-color: #421f02;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+h1 {
+  text-align: center;
+}
